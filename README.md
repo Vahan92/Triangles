@@ -1,4 +1,4 @@
-# Users
+# Triangles
 
 npm i
 
